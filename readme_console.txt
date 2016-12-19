@@ -29,11 +29,19 @@ Linux and Mac OS X (10.7 and above)
 	*Note2: Make sure the program has execute permissions (744) 'chmod buttonswap 744'
 
 Tested on Windows 10 Pro x64 and Ubuntu 16.04.1 x64
--------
+
+------
+Source
+------
+This utility was written in Go (1.7.1) (https://golang.org/)
+
+And the source code is available at: https://github.com/Nudua/pocketbomberman
+
+------
 Credits
 -------
 Made by Tor Ramstad aka Nudua, for any issues or questions feel free to contact via the info below.
 
-Web:      http://nudua.com
 Twitter:  https://twitter.com/TheRealNudua
+Web:      http://nudua.com
 Twitch:   http://twitch.tv/Nudua
