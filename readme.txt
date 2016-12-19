@@ -37,6 +37,14 @@ This utility was written in Go (1.7.1) (https://golang.org/)
 
 And the source code is available at: https://github.com/Nudua/pocketbomberman
 
+---------
+Compiling
+---------
+Download and install the latest version of Go: https://golang.org
+
+go get github.com/Nudua/pocketbomberman
+go build apps/console/main.go
+
 ------
 Credits
 -------
